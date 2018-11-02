@@ -1,0 +1,3 @@
+[submodule "plugins/submod"]
+	path = plugins/submod
+	url = https://github.com/petervmercer/submod.git
