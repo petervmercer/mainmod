@@ -1,6 +1,4 @@
 [submodule "plugins/submod"]
 	path = plugins/submod
 	url = https://github.com/petervmercer/submod.git
-[submodule "plugins/removable"]
-	path = plugins/removable
-	url = https://github.com/petervmercer/removable.git
+
